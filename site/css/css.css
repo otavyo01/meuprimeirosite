@@ -57,7 +57,7 @@ body {
     background-color: rgb(255, 255, 255);
     display: none;
     position: absolute;
-    height: 620px;
+    height: 844px;
     width: 950px;
     border-style: solid;
     border-color: black;
@@ -124,18 +124,19 @@ p {
     animation-duration: 7s;
 }
 
+.frase{
+    color: blue;
+}
+
+
+
+.rodape{
+    color: red;
+}
+
 
 @keyframes anim {
     0% {
         opacity: 0;
     }
 }
-
-
-
-
-
-
-
-
-
