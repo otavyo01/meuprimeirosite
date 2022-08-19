@@ -6,7 +6,7 @@
 
 body {
     background-color: rgb(13, 158, 168);
-    background-image: url(/meuprimeirosite-main/site/img/download.jpeg);
+    background-image: url("download.jpeg");
     background-repeat: round;
 }
 
