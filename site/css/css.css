@@ -6,7 +6,7 @@
 
 body {
     background-color: rgb(13, 158, 168);
-    background-image: url(/img/download.jpeg);
+    background-image: url(/meuprimeirosite-main/site/img/download.jpeg);
     background-repeat: round;
 }
 
@@ -57,7 +57,7 @@ body {
     background-color: rgb(255, 255, 255);
     display: none;
     position: absolute;
-    height: 844px;
+    height: 870px;
     width: 950px;
     border-style: solid;
     border-color: black;
