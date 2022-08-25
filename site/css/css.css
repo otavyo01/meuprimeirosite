@@ -4,9 +4,9 @@
 }
 
 
-body {
-    background-color: rgb(13, 158, 168);
-    background-image: url("download.jpeg");
+body{
+    font-family: sans-serif;
+    background-image: url(../img/download.jpeg);
     background-repeat: round;
 }
 
@@ -57,7 +57,7 @@ body {
     background-color: rgb(255, 255, 255);
     display: none;
     position: absolute;
-    height: 870px;
+    height: 880px;
     width: 950px;
     border-style: solid;
     border-color: black;
